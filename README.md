@@ -1,2 +1,2 @@
-# boston_housing_project
+# Boston housing project 
 Determining Boston housing prices for ML nanodegree project
